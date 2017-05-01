@@ -18,6 +18,7 @@ cifar-10-batches-py
 image_classification.data-*
 image_classification.index
 image_classification.meta
+preprocess_*
 preprocess_batch_*.p
 preprocess_training.p
 preprocess_validation.p
